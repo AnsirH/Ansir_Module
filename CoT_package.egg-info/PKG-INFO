@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: CoT_package
+Version: 0.1
+Summary: My test package
+Author: Ansir
+Dynamic: author
+Dynamic: summary

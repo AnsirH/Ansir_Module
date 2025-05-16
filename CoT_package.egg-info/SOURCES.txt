@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+CoT_package/__init__.py
+CoT_package/my_module.py
+CoT_package.egg-info/PKG-INFO
+CoT_package.egg-info/SOURCES.txt
+CoT_package.egg-info/dependency_links.txt
+CoT_package.egg-info/top_level.txt
